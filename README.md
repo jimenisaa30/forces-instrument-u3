@@ -1,3 +1,5 @@
+#Isabela Jiménez
+
 # U3 · Forces Instrument
 
 Proyecto base que servirá como caso de estudio. Nos permitirá abordar los conceptos 
